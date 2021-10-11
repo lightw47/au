@@ -8,6 +8,8 @@ Little project to handle au audio files
 * au_reverse.c: source file of a program that reverses a 8-bit LPCM encoded au file. 
 
 ### Instructions:
+Download all .h and .c files, put them in the same directory.
+
 Compile each component separately:
 
 `gcc -o au_reader au_reader.c au.c`
